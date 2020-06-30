@@ -1095,3 +1095,33 @@ java.lang.RuntimeException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 20:53:27.795
 !MESSAGE executing callback sts4.classpath.glJetEsS SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-06-30 21:30:48.682
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:32:27.878
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:32:27.892
+!MESSAGE classpath=183 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:32:27.903
+!MESSAGE buffering callback sts4.classpath.glJetEsS SpringBootLogin false 183
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:32:27.903
+!MESSAGE executing callback sts4.classpath.glJetEsS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:32:27.922
+!MESSAGE executing callback sts4.classpath.glJetEsS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:33:01.604
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.glJetEsS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:33:01.605
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.glJetEsS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:33:01.606
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-06-30 21:33:01.607
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.glJetEsS => OK
